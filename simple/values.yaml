@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nginx
+  repository: imacatlol/go-hello
   tag: stable
   pullPolicy: IfNotPresent
 
